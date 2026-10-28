@@ -1,0 +1,4 @@
+.env
+apps-script/
+.clasp.json
+.DS_Store
